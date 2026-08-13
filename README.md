@@ -49,7 +49,7 @@ It was built as a **Mini Project (ITM 501)** for the Bachelor of Engineering in 
 ## 🗺 Site Architecture
 
 <p align="center">
-  <img src="screenshots/06-site-architecture.png" alt="Site architecture / page flow diagram" width="850">
+  <img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/06-site-architecture.png" alt="Site architecture / page flow diagram" width="850">
 </p>
 
 The site is split into a **user side** (Home, Volunteer, Blood Donation, Medicine Donations, Testimonials, Vaccination, Donations) and an **admin side** (login-gated dashboard with per-module record counts and detail views).
@@ -58,15 +58,15 @@ The site is split into a **user side** (Home, Volunteer, Blood Donation, Medicin
 
 <table>
 <tr>
-<td width="50%"><img src="screenshots/01-homepage.png" alt="Homepage"><p align="center"><em>Homepage</em></p></td>
-<td width="50%"><img src="screenshots/02-blood-donation.png" alt="Blood donation page"><p align="center"><em>Blood Donation</em></p></td>
+<td width="50%"><img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/01-homepage.png" alt="Homepage"><p align="center"><em>Homepage</em></p></td>
+<td width="50%"><img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/02-blood-donation.png" alt="Blood donation page"><p align="center"><em>Blood Donation</em></p></td>
 </tr>
 <tr>
-<td width="50%"><img src="screenshots/03-vaccination.png" alt="Vaccination page"><p align="center"><em>Vaccination</em></p></td>
-<td width="50%"><img src="screenshots/04-testimonials.png" alt="Testimonials page"><p align="center"><em>Testimonials</em></p></td>
+<td width="50%"><img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/03-vaccination.png" alt="Vaccination page"><p align="center"><em>Vaccination</em></p></td>
+<td width="50%"><img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/04-testimonials.png" alt="Testimonials page"><p align="center"><em>Testimonials</em></p></td>
 </tr>
 <tr>
-<td colspan="2"><img src="screenshots/05-admin-dashboard.png" alt="Admin dashboard"><p align="center"><em>Admin Dashboard — live record counts per module</em></p></td>
+<td colspan="2"><img src="Swasthya-Rashmi-README/Swasthya-Rashmi-README/screenshots/05-admin-dashboard.png" alt="Admin dashboard"><p align="center"><em>Admin Dashboard — live record counts per module</em></p></td>
 </tr>
 </table>
 
@@ -146,7 +146,7 @@ Swasthya-Rashmi/
 | `vaccineregistration` | Vaccination camp registrations + medical/insurance details |
 | `paymentdetails` | Monetary donation/payment records |
 
-Full column definitions are in [`database/schema.sql`](database/schema.sql).
+Full column definitions are in [`Swasthya-Rashmi-README/Swasthya-Rashmi-README/database/schema.sql`](database/schema.sql).
 
 ## 🔭 Future Enhancements
 
